@@ -1,0 +1,13 @@
+---
+title: Vigor CMS
+email: coach@liveinvigor.com
+description: A site for all content associated with the Vigor Wellness Program
+baseurl: ''
+url: ''
+twitter_username: 
+github_username: git-vigor
+markdown: kramdown
+theme: vigor-cms-theme
+plugins:
+- jekyll-feed
+timezone: Etc/UTC
