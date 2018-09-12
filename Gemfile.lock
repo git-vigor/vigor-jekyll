@@ -1,8 +1,10 @@
 GIT
-  remote: https://github.com/funkfinger/vigor-cms-theme.git
-  revision: 2449257071900c0ff524941b0c71c93d472d78b5
+  remote: git://github.com/funkfinger/vigor-cms-theme.git
+  revision: 45fad10dec47b1d844d3761bc86d3829c7c54ebe
+  branch: master
   specs:
-    vigor-cms-theme (0.0.3)
+    vigor-cms-theme (0.0.4)
+      bootstrap (~> 4.0.0)
       jekyll (~> 3.5)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
@@ -12,12 +14,19 @@ GEM
   specs:
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
+    autoprefixer-rails (9.1.4)
+      execjs
+    bootstrap (4.0.0)
+      autoprefixer-rails (>= 6.0.3)
+      popper_js (>= 1.12.9, < 2)
+      sass (>= 3.5.2)
     colorator (1.1.0)
     concurrent-ruby (1.0.5)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
+    execjs (2.7.0)
     ffi (1.9.25)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
@@ -59,6 +68,7 @@ GEM
     mercenary (0.3.6)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
+    popper_js (1.14.3)
     public_suffix (3.0.3)
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
@@ -83,7 +93,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   tzinfo-data
-  vigor-cms-theme!
+  vigor-cms-theme (= 0.0.4)!
 
 BUNDLED WITH
    1.16.2
