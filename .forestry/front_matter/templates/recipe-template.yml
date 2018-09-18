@@ -4,6 +4,12 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
+  name: title
+  label: Title
+- type: tag_list
+  name: tags
+  label: tags
+- type: text
   name: layout
   label: layout
   description: recipe
@@ -12,7 +18,7 @@ fields:
     required: true
 - type: field_group
   name: preptime
-  label: preptime
+  label: Prep Time
   fields:
   - type: number
     name: value
@@ -42,10 +48,10 @@ fields:
       - Hours
       - Days
     label: units
-  label: cooktime
+  label: Cook Time
   name: cooktime
 - type: field_group
-  name: nutrition_data
+  name: nutritionalData
   label: Nutrition Data
   fields:
   - type: number
