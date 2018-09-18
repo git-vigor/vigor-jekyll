@@ -33,6 +33,7 @@ directions:
   blender or food processor. You can add the broth in earlier to the water or drain
   a portion of the water to switch out with broth. '
 - Garnish with pumpkin seeds or whatever you desire.
+yield: 2 portions
 published: false
 
 ---
