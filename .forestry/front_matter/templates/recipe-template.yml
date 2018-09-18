@@ -70,7 +70,8 @@ fields:
   name: directions
   label: directions
   config:
-    max: '1'
+    max: ''
+    min: '1'
 pages:
 - _recipes/chicken-hemp-hash.md
 - _recipes/jumpstart-smoothie.md
