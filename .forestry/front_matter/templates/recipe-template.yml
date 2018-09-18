@@ -1,0 +1,29 @@
+---
+label: 'Recipe Template '
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  description: recipe
+  hidden: true
+  config:
+    required: true
+- type: field_group
+  name: preptime
+  label: preptime
+  fields:
+  - type: number
+    name: value
+    label: value
+  - type: select
+    name: units
+    config:
+      source:
+        type: simple
+      options:
+      - Minutes
+      - Hours
+      - days
+    label: units
