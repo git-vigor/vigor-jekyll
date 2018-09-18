@@ -72,4 +72,5 @@ fields:
   config:
     max: '1'
 pages:
+- _recipes/jumpstart-smoothie.md
 - _recipes/carrot-cake-smoothie.md
