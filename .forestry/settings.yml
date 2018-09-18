@@ -4,6 +4,11 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: directory
+  path: _recipes
+  label: Recipes
+  create: all
+  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
@@ -15,3 +20,9 @@ public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
+build:
+  preview_command: ''
+  publish_command: ''
+  preview_env: []
+  publish_env: []
+  output_directory: ''
