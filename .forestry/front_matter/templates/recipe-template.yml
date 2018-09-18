@@ -73,6 +73,7 @@ fields:
     max: '1000'
     min: '0'
 pages:
+- _recipes/Overnight-Oats.md
 - _recipes/chicken-hemp-hash.md
 - _recipes/jumpstart-smoothie.md
 - _recipes/carrot-cake-smoothie.md
