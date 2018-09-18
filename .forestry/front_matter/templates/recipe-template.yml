@@ -68,7 +68,8 @@ fields:
   label: ingredients
   name: ingredients
   config:
-    min: '1'
+    min: '0'
+    max: '1000'
 - type: list
   name: directions
   label: directions
