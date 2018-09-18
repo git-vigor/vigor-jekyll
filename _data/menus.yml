@@ -1,8 +1,8 @@
-# header:
-#   title: "Recipes"
-#   url: "/recipes"
-#   identifier: "recipes-main"
-#   children:
-#   - title: "Dinner"
-#     url: "/recipes/dinner"
-#     identifier: "recipes-dinner"
+header:
+  title: "Recipes"
+  url: "/recipes"
+  identifier: "recipes-main"
+  children:
+  - title: "Dinner"
+    url: "/recipes/dinner"
+    identifier: "recipes-dinner"
