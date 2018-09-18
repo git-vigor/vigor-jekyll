@@ -61,6 +61,9 @@ fields:
   - type: number
     name: grams_of_fat
     label: grams of fat
+- type: text
+  name: yield
+  label: Yield
 - type: list
   label: ingredients
   name: ingredients
@@ -72,9 +75,6 @@ fields:
   config:
     max: '1000'
     min: '0'
-- type: text
-  name: yield
-  label: Yield
 pages:
 - _recipes/Cream-Of-Broccoli.md
 - _recipes/chicken-hemp-hash.md
