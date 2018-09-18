@@ -42,3 +42,15 @@ fields:
       - Hours
       - Days
     label: units
+  label: cooktime
+  name: cooktime
+- type: field_group
+  name: nutrition_data
+  label: Nutrition Data
+  fields:
+  - type: number
+    label: Calories
+    name: calories
+  - type: number
+    name: grams_of_fat
+    label: grams of fat
