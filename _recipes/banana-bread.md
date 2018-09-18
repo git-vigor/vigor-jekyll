@@ -1,23 +1,17 @@
 ---
-
 layout: recipe
-title:  "Banana Bread"
+title: Banana Bread
 tags: breakfast, baking
-
 preptime:
   value: 15
   units: HOURS
-
 cooktime:
   value: 1
   units: HOUR
-
-yield: "10 portions"
-
+yield: 10 **portions**
 nutritionalData:
   calories: 100
   fatContent: 10 grams
-
 ingredients:
 - 4 bananas
 - 1/2 cup butter
@@ -28,7 +22,6 @@ ingredients:
 - 1 tsp baking powder
 - pinch salt
 - 1/4 cup nuts (we like pecans)
-
 directions:
 - Beat the eggs, then cream with the butter and sugar
 - Mix in bananas, then flour, baking soda/powder, salt, and nuts
@@ -36,5 +29,4 @@ directions:
 - Bake until brown/cracked, toothpick comes out clean
 
 ---
-
 it's bread, it has bananas. it might be good. it might not.
