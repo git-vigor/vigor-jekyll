@@ -6,18 +6,16 @@ fields:
 - type: text
   name: title
   label: title
-- type: field_group
-  label: measurement
-  name: measurement
+- type: field_group_list
+  name: warm_up
+  label: warm up
   fields:
-  - type: select
-    config:
-      source:
-        type: simple
-      options:
-      - load
-      - time
-      - reps
-      - rounds
-    label: units
-    name: units
+  - type: text
+    name: exercise
+    label: exercise
+  - type: text
+    name: quantity
+    label: quantity
+- type: field_group_list
+  name: wod
+  label: wow
