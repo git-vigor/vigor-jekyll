@@ -12,9 +12,15 @@ cooktime:
 nutritionalData:
   calories: ''
   grams_of_fat: ''
-yield: ''
-ingredients: []
-directions: []
+yield: 10
+ingredients:
+- whatever
+- rice
+- water
+directions:
+- fill pot with water
+- add rice
+published: false
 
 ---
 empty
