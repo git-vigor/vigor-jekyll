@@ -22,7 +22,11 @@ ingredients:
 - "½ tsp garlic powder"
 - 1 tbsp olive oil
 - Lime juice to taste
-directions: []
+directions:
+- PRE-HEAT a pan to medium and use 1 tbsp coconut oil.
+- Add chicken, tear up or chop spinach then add, add seasoning or hot sauce blend.
+- Mix together for 2 minutes and then add hemp hearts and nutritional yeast.
+- Finish with dash of sea salt.
 published: false
 
 ---
