@@ -22,7 +22,6 @@ ingredients:
   choice'
 directions:
 - Mix together in the am and add small amount of liquid if needed.
-published: false
 
 ---
 Compared to sugary cereals, overnight oats are a gold mine of nutritional value. Not only do they keep us feeling fuller, longer because of the fiber and protein— they can give us an energy boost to squeeze in morning exercise or get through a marathon meeting at the office. 
