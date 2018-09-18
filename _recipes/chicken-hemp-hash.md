@@ -22,9 +22,7 @@ ingredients:
 - "½ tsp garlic powder"
 - 1 tbsp olive oil
 - Lime juice to taste
-directions:
-- Finish with dash of sea salt. I will often leave out spices and just add 2 tbsp
-  of “upgraded hot sauce”
+directions: []
 published: false
 
 ---
