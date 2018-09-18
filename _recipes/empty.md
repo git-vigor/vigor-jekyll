@@ -12,7 +12,7 @@ cooktime:
 nutritionalData:
   calories: ''
   grams_of_fat: ''
-yield: 10
+yield: ''
 ingredients:
 - whatever
 - rice
