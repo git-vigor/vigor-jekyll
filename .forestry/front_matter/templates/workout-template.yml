@@ -2,4 +2,22 @@
 label: Workout Template
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: title
+  label: title
+- type: field_group
+  label: measurement
+  name: measurement
+  fields:
+  - type: select
+    config:
+      source:
+        type: simple
+      options:
+      - load
+      - time
+      - reps
+      - rounds
+    label: units
+    name: units
