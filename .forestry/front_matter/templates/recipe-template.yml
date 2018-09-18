@@ -77,6 +77,7 @@ fields:
     max: '1000'
     min: '0'
 pages:
+- _recipes/empty.md
 - _recipes/Cream-Of-Broccoli.md
 - _recipes/chicken-hemp-hash.md
 - _recipes/Overnight-Oats.md
