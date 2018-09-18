@@ -3,7 +3,7 @@ title: Carrot Cake Smoothie
 date: 2018-09-18 17:33:56 +0000
 tags:
 - smoothie
-layout: ''
+layout: 'recipe'
 preptime:
   value: 10
   units: Minutes
