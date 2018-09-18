@@ -20,7 +20,6 @@ ingredients:
 directions:
 - fill pot with water
 - add rice
-published: false
 
 ---
 empty
