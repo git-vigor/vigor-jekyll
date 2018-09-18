@@ -70,3 +70,5 @@ fields:
   label: directions
   config:
     max: '1'
+pages:
+- _recipes/carrot-cake-smoothie.md
