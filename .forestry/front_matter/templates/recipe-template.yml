@@ -70,7 +70,7 @@ fields:
   name: directions
   label: directions
   config:
-    max: ''
+    max: '1000'
     min: ''
 pages:
 - _recipes/chicken-hemp-hash.md
