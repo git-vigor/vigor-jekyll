@@ -54,3 +54,13 @@ fields:
   - type: number
     name: grams_of_fat
     label: grams of fat
+- type: list
+  label: ingredients
+  name: ingredients
+  config:
+    min: '1'
+- type: list
+  name: directions
+  label: directions
+  config:
+    max: '1'
