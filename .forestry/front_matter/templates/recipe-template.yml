@@ -27,3 +27,18 @@ fields:
       - Hours
       - days
     label: units
+- type: field_group
+  fields:
+  - type: number
+    name: value
+    label: value
+  - type: select
+    name: units
+    config:
+      source:
+        type: simple
+      options:
+      - Minutes
+      - Hours
+      - Days
+    label: units
