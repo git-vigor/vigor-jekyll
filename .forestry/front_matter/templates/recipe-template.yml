@@ -71,7 +71,7 @@ fields:
   label: directions
   config:
     max: ''
-    min: '1'
+    min: ''
 pages:
 - _recipes/chicken-hemp-hash.md
 - _recipes/jumpstart-smoothie.md
