@@ -16,6 +16,7 @@ fields:
   hidden: true
   config:
     required: true
+  default: recipe
 - type: field_group
   name: preptime
   label: Prep Time
