@@ -2,14 +2,21 @@
 
 layout: recipe
 title:  "Banana Bread"
-image: banana-bread.jpg
-imagecredit: https://flic.kr/p/7HZmzn
 tags: breakfast, baking
-author: "[Github](https://raw.githubusercontent.com/clarklab/chowdown/gh-pages/_recipes/banana-bread.md)"
 
 preptime:
   value: 15
   units: HOURS
+
+cooktime:
+  value: 1
+  units: HOUR
+
+yield: "10 portions"
+
+nutritionalData:
+  calories: 100
+  fatContent: 10 grams
 
 ingredients:
 - 4 bananas
@@ -30,4 +37,4 @@ directions:
 
 ---
 
-it's bread, it has bananas.
+it's bread, it has bananas. it might be good. it might not.

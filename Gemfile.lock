@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/funkfinger/vigor-cms-theme.git
-  revision: f557189bbcdb10e66798961cd102081f61a2919a
+  revision: 1eb984396cdc1098b2f7d804e20521d7b0f9a64d
   branch: master
   specs:
     vigor-cms-theme (0.0.5)
