@@ -27,7 +27,6 @@ directions:
 - Add chicken, tear up or chop spinach then add, add seasoning or hot sauce blend.
 - Mix together for 2 minutes and then add hemp hearts and nutritional yeast.
 - Finish with dash of sea salt.
-published: false
 
 ---
 This reminds me of a chicken parmesan dish. Simple dish with a ton of flavor, the hemp hearts are the “X-factor” with a creamy but crunchy texture that absorbs the flavor.  Adding in the hemp provides a boost of healthy fats and fiber that almost make you feel like you’re eating rice. The spinach soaks up more of the flavor and makes you feel like you have cheese in the dish.
