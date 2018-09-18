@@ -72,5 +72,6 @@ fields:
   config:
     max: '1'
 pages:
+- _recipes/chicken-hemp-hash.md
 - _recipes/jumpstart-smoothie.md
 - _recipes/carrot-cake-smoothie.md
