@@ -23,4 +23,4 @@ directions:
 - add rice
 
 ---
-empty
+empty reciep
