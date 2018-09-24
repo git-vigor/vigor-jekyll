@@ -19,3 +19,10 @@ fields:
 - type: field_group_list
   name: wod
   label: wow
+- type: select
+  name: test
+  config:
+    source:
+      type: pages
+      section: workouts
+  label: test
