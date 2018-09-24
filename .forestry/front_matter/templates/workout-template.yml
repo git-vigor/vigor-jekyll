@@ -10,19 +10,16 @@ fields:
   name: warm_up
   label: warm up
   fields:
-  - type: text
+  - type: select
+    config:
+      source:
+        type: pages
+        section: exercises
+    label: Exercise
     name: exercise
-    label: exercise
   - type: text
     name: quantity
     label: quantity
 - type: field_group_list
   name: wod
   label: wow
-- type: select
-  name: test
-  config:
-    source:
-      type: pages
-      section: workouts
-  label: test
