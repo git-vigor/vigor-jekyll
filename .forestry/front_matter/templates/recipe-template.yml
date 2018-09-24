@@ -59,7 +59,7 @@ fields:
     label: Calories
     name: calories
   - type: number
-    name: grams_of_fat
+    name: fatContent
     label: grams of fat
 - type: text
   name: yield
@@ -77,9 +77,9 @@ fields:
     max: '1000'
     min: '0'
 pages:
+- _recipes/Cream-Of-Broccoli.md
 - _recipes/blah.md
 - _recipes/empty.md
-- _recipes/Cream-Of-Broccoli.md
 - _recipes/chicken-hemp-hash.md
 - _recipes/Overnight-Oats.md
 - _recipes/jumpstart-smoothie.md
