@@ -1,9 +1,9 @@
 GIT
   remote: git://github.com/git-vigor/vigor-cms-theme.git
-  revision: 34254c1f59a2abec9518f21f9a65f2901ee147d9
+  revision: ac7bb8de2b2433e60a12dde95d523a34dcdd64cd
   branch: master
   specs:
-    vigor-cms-theme (0.0.8)
+    vigor-cms-theme (0.0.9)
       bootstrap (~> 4.1.3)
       jekyll (~> 3.5)
       jekyll-feed (~> 0.9)
@@ -101,7 +101,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   tzinfo-data
-  vigor-cms-theme (= 0.0.8)!
+  vigor-cms-theme (= 0.0.9)!
 
 BUNDLED WITH
    1.16.2

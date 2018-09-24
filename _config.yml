@@ -42,6 +42,10 @@ collections:
     output: true
   recipes:
     output: true
+  workouts:
+    output: true
+  exercises:
+    output: true
 
 
 # Configuration for jekyll_pages_api_search plugin gem.
