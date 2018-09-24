@@ -3,7 +3,7 @@ title: Jumping Jack
 layout: exercise
 date: 2018-09-24 11:14:00 +0000
 tags: []
-quantity_beginner: 10
+quantity_beginner: 8
 quantity_intermediate: 15
 quantity_advanced: 20
 
