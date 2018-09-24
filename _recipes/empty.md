@@ -12,7 +12,7 @@ cooktime:
 nutritionalData:
   calories: ''
   grams_of_fat: ''
-  fatContent: ''
+  fatContent: 0
 yield: ''
 ingredients:
 - whatever
