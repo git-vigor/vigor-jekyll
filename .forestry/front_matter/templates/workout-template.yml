@@ -22,4 +22,4 @@ fields:
     label: quantity
 - type: field_group_list
   name: wod
-  label: wow
+  label: wod
