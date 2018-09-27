@@ -6,6 +6,12 @@ tags: []
 quantity_beginner: 10
 quantity_intermediate: 15
 quantity_advanced: 20
+steps:
+- push up to elbow lockout
+- lower body until arms are 90 degrees
+- assume plank position, hands under shoulders, feet together
+photo_description:
+- "/uploads/f5a12f7fbcd52af8_Basic-Push-Up.jpg"
 
 ---
-A push-up (or press-up) is a common calisthenics exercise performed in a prone position by raising and lowering the body using the arms. Push-ups exercise the pectoral muscles, triceps, and anterior deltoids, with ancillary benefits to the rest of the deltoids, serratus anterior, coracobrachialis and the midsection as a whole. Push-ups are a basic exercise used in civilian athletic training or physical education and commonly in military physical training.
+Plank position, feet together, raise and lower your body.
