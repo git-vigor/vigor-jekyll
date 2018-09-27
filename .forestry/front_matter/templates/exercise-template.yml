@@ -11,3 +11,5 @@ fields:
 - type: field_group
   name: steps
   label: steps
+pages:
+- _exercises/treadmill.md
