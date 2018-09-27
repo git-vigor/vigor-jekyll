@@ -67,6 +67,7 @@ fields:
     config:
       source:
         type: documents
+        section: exercises
     label: exercise
   - type: text
     name: quantity_beginner
