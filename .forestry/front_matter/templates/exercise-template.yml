@@ -11,3 +11,6 @@ fields:
 - type: image_gallery
   name: photo_description
   label: Photo Description
+- type: field_group
+  name: steps
+  label: steps
