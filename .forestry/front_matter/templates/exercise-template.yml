@@ -3,8 +3,6 @@ label: Exercise Template
 hide_body: false
 is_partial: false
 fields:
-- type: text
-  default: title
 - type: image_gallery
   name: photo_description
   label: Photo Description
