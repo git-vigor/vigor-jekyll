@@ -58,3 +58,22 @@ fields:
   - type: text
     name: quantity_advanced
     label: quantity advanced
+- type: field_group_list
+  label: cool down
+  name: cool_down
+  fields:
+  - type: select
+    name: exercise
+    config:
+      source:
+        type: documents
+    label: exercise
+  - type: text
+    name: quantity_beginner
+    label: quantity beginner
+  - type: text
+    label: quantity intermediate
+    name: quantity_intermediate
+  - type: text
+    name: quantity_advanced
+    label: quantity advanced
