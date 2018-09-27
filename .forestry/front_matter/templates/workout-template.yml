@@ -25,9 +25,19 @@ fields:
         section: exercises
     label: Exercise
     name: exercise
+    default: _exercises/push-up.md
   - type: text
     name: quantity
     label: quantity beginner
+    default: '5'
+  - type: text
+    name: quantity_intermediate
+    label: quantity intermediate
+    default: '15'
+  - type: text
+    name: quantity_advanced
+    label: quantity advanced
+    default: '25'
 - type: field_group_list
   name: wod
   label: wod
