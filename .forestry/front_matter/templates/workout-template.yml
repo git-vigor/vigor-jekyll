@@ -6,6 +6,14 @@ fields:
 - type: text
   name: title
   label: title
+- type: select
+  config:
+    source:
+      type: simple
+    options:
+    - Beginner Gym
+  name: ''
+  label: ''
 - type: field_group_list
   name: warm_up
   label: warm up
@@ -19,7 +27,7 @@ fields:
     name: exercise
   - type: text
     name: quantity
-    label: quantity
+    label: quantity beginner
 - type: field_group_list
   name: wod
   label: wod
