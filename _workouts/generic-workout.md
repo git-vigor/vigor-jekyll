@@ -9,6 +9,10 @@ warm_up:
   quantity_intermediate: 20 reps
   quantity_advanced: 30 reps
 - exercise: _exercises/push-up.md
+  quantity: ''
+  quantity_intermediate: ''
+  quantity_advanced: ''
+- exercise: _exercises/push-up.md
   quantity: 10
   quantity_intermediate: 20
   quantity_advanced: 30
@@ -16,4 +20,4 @@ wod:
 - {}
 
 ---
-# Generic Workout
+Just a generic workout to test the system
