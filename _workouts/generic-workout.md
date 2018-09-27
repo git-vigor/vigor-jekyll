@@ -10,6 +10,8 @@ warm_up:
   quantity_advanced: 30 reps
 - exercise: _exercises/push-up.md
   quantity: 10
+  quantity_intermediate: 20
+  quantity_advanced: 30
 wod:
 - {}
 
