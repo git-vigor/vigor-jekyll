@@ -8,7 +8,7 @@ fields:
 - type: image_gallery
   name: photo_description
   label: Photo Description
-- type: field_group
+- type: list
   name: steps
   label: steps
 pages:
