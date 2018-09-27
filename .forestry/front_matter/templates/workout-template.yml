@@ -29,15 +29,15 @@ fields:
   - type: text
     name: quantity
     label: quantity beginner
-    default: '5'
+    default: ''
   - type: text
     name: quantity_intermediate
     label: quantity intermediate
-    default: '15'
+    default: ''
   - type: text
     name: quantity_advanced
     label: quantity advanced
-    default: '25'
+    default: ''
 - type: field_group_list
   name: wod
   label: wod
