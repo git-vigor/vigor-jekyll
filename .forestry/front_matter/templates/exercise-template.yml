@@ -1,0 +1,13 @@
+---
+label: Exercise Template
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  default: title
+- type: textarea
+  label: description
+  name: description
+- type: image_gallery
+  name: photo_description
+  label: Photo Description
