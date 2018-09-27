@@ -6,6 +6,8 @@ tags: []
 warm_up:
 - exercise: _exercises/jumping-jack.md
   quantity: 10 reps
+  quantity_intermediate: 20 reps
+  quantity_advanced: 30 reps
 - exercise: _exercises/push-up.md
   quantity: 10
 wod:
