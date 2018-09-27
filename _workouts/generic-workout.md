@@ -18,6 +18,12 @@ warm_up:
   quantity_advanced: 30
 wod:
 - {}
+cool_down:
+- exercise: _exercises/jumping-jack.md
+  quantity_beginner: '10'
+  quantity_intermediate: '20'
+  quantity_advanced: '30'
+- {}
 
 ---
 Just a generic workout to test the system
