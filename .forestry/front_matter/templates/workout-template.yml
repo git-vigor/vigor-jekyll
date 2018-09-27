@@ -39,5 +39,22 @@ fields:
     label: quantity advanced
     default: ''
 - type: field_group_list
-  name: wod
-  label: wod
+  name: workout
+  label: workout
+  fields:
+  - type: select
+    config:
+      source:
+        type: documents
+        section: exercises
+    label: exercise
+    name: exercise
+  - type: text
+    name: quantity_beginner
+    label: quantity beginner
+  - type: text
+    name: quantity_intermediate
+    label: quantity intermediate
+  - type: text
+    name: quantity_advanced
+    label: quantity advanced
