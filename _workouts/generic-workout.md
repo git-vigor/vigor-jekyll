@@ -32,4 +32,4 @@ workout:
   quantity_advanced: 30 min
 
 ---
-Just a generic workout to test the system NOW
+Just a generic workout to test the system
