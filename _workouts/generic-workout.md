@@ -18,9 +18,9 @@ warm_up:
   quantity_advanced: 30
 cool_down:
 - exercise: _exercises/jumping-jack.md
-  quantity_beginner: '10'
-  quantity_intermediate: '20'
-  quantity_advanced: '30'
+  quantity_beginner: 10
+  quantity_intermediate: 20
+  quantity_advanced: 30
 workout:
 - exercise: _exercises/treadmill.md
   quantity_beginner: 10 min
@@ -28,4 +28,4 @@ workout:
   quantity_advanced: 30 min
 
 ---
-Just a generic workout to test the system
+Just a generic workout to test the system NOW
