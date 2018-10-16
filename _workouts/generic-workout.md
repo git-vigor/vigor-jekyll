@@ -24,6 +24,11 @@ cool_down:
   quantity_intermediate: '20'
   quantity_advanced: '30'
 - {}
+workout:
+- exercise: _exercises/treadmill.md
+  quantity_beginner: 10 min
+  quantity_intermediate: 20 min
+  quantity_advanced: 30 min
 
 ---
 Just a generic workout to test the system
