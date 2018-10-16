@@ -66,6 +66,31 @@ jekyll_pages_api_search:
     body:
 
 
+pagination:
+  enabled: true
+  per_page: 3
+  permalink: '/page/:num/'
+  title: ':title - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+ 
+autopages:
+  enabled: true
+  categories:
+    enabled: false
+  tags:
+    enabled: false
+  collections:
+    enabled: true
+    layouts: 
+      - 'autopage_collection.html'
+    slugify:
+      mode: 'ascii'
+      cased: true  # Causes B+W tag to show up as it is written on the terry-pratchet-diary-2017.md page and not lowercase
+     
+      
 disqus:
   shortname: vigor-1      
   # If defined and browserify and uglifyify are installed, the plugin will
@@ -74,7 +99,8 @@ disqus:
   # browserify:
   #   source: js/my-search.js
   #   target: js/my-search-bundle.js
-  
+
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
