@@ -22,6 +22,10 @@ cool_down:
   quantity_intermediate: 20
   quantity_advanced: 30
 workout:
+- exercise: _exercises/jumping-jack.md
+  quantity_beginner: 1000
+  quantity_intermediate: 2000
+  quantity_advanced: 3000
 - exercise: _exercises/treadmill.md
   quantity_beginner: 10 min
   quantity_intermediate: 20 min
