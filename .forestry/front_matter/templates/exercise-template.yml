@@ -10,4 +10,5 @@ fields:
   name: steps
   label: steps
 pages:
+- _exercises/interval.md
 - _exercises/push-up.md
