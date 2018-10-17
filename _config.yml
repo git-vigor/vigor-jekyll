@@ -67,6 +67,7 @@ jekyll_pages_api_search:
 
 
 pagination:
+
   enabled: true
   per_page: 3
   permalink: '/page/:num/'
